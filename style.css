@@ -1,0 +1,28 @@
+.off {
+  background-color:white; 
+}
+.on {
+  background-color:#11ff11;
+}
+
+.blink {
+  color:#dd2222;
+}
+
+
+table {
+}
+
+tr {
+ width:62px;
+ float:left;
+}
+
+td {
+  float:left;
+  margin:2px;
+  padding:3px;
+  width:50px;
+  height:50px;
+  border:solid 1px;
+}
